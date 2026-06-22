@@ -5,10 +5,10 @@ Hello, I'm Raheem Amer 👋
 <div align="center">
 
 <a href="https://committers.top/egypt" target="_blank">
-	<img src="https://user-badge.committers.top/egypt/RaheemAmer.svg" alt="Committer Ranking" title="Top Committer Egypt"/>
+	<img src="https://user-badge.committers.top/egypt/RaheemEmad.svg" alt="Committer Ranking" title="Top Committer Egypt"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=RaheemAmer&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=RaheemEmad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -25,7 +25,7 @@ INFJ 2w1
 
 <div align="center">
 
-<img width="600" align="center" alt="Raheem Amer's Intro Gif" src="https://github.com/RaheemAmer/RaheemAmer/blob/main/Raheem%20Amer's%20Introduction.gif">
+<img width="600" align="center" alt="Raheem Amer's Intro Gif" src="https://github.com/RaheemEmad/RaheemEmad/blob/main/Raheem%20Amer's%20Introduction.gif">
 
 </div>
 
@@ -45,7 +45,7 @@ INFJ 2w1
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=RaheemAmer\&theme=nord\&no-frame=false\&no-bg=false\&margin-w=6&\&hide_border=true)
+![](https://github-profile-trophy.vercel.app/?username=RaheemEmad\&theme=nord\&no-frame=false\&no-bg=false\&margin-w=6&\&hide_border=true)
 
 </div>
 
@@ -82,10 +82,6 @@ Additional Interests:
 
 ## :bowtie: My Bio
 
-<a href="https://app.daily.dev/RaheemAmer">
-<img align="right" width="300" src="https://api.daily.dev/devcards/cdacbcbfb1a947e78c7f38d46bd90f89.png?r=ohd" alt="Raheem Amer's Dev Card" title="Raheem Amer's Dev Card"/>
-</a>
-
 * ☁️ Currently working as a Google Cloud Technical Support Engineer
 
 * 🚀 Transitioning into Cloud Engineering, DevOps & DevSecOps
@@ -96,13 +92,11 @@ Additional Interests:
 
 * 📊 Exploring Data Analytics and Cloud Operations
 
-* 📕 Building and maintaining my Self-Study knowledge repository
+* 📕 [Building and maintaining my Self-Study knowledge repository](https://github.com/RaheemEmad/SelfStudy)
 
 * 💬 Ask me about Cloud, Linux, Networking, Recruitment, Psychology and Web Development
 
 * 📚 Currently studying Cloud Architecture, Linux, Docker and DevOps Practices
-
-* 📄 Check out my CV
 
 * 📫 Reach me at **[raheem.amer22@gmail.com](mailto:raheem.amer22@gmail.com)**
 
@@ -123,11 +117,11 @@ Additional Interests:
 
 ## 📚 Learning Repositories
 
-* 📕 Self-Study Repository
+* 📕 [Self-Study Repository](https://github.com/RaheemEmad/SelfStudy)
 
-* 🧠 Learn Programming & Problem Solving
+* 🧠 [Learn Programming & Problem Solving](https://github.com/RaheemEmad/Programming)
 
-* 🌱 Continuous Learning Projects & Labs
+* 🌱 [Continuous Learning Projects & Labs](https://github.com/RaheemEmad/Labs)
 
 ---
 
@@ -151,15 +145,15 @@ Additional Interests:
 
 <div align="center">
 
-<a href="https://github.com/RaheemAmer">
+<a href="https://github.com/RaheemEmad">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=RaheemAmer&show_icons=true&theme=react&hide_border=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=RaheemEmad&show_icons=true&theme=react&hide_border=true"/>
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaheemAmer&layout=compact&langs_count=8&theme=react&hide_border=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaheemEmad&layout=compact&langs_count=8&theme=react&hide_border=true"/>
 
 </a>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaheemAmer&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true"/>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaheemEmad&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true"/>
 
 </div>
 
@@ -283,16 +277,16 @@ Eric Freeman & Elisabeth Robson
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raheem-amer" height="30" width="40" />
 </a>
 
-<a href="https://stackoverflow.com/users/raheem-amer" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raheem-amer" height="30" width="40" />
+<a href="https://stackoverflow.com/users/RaheemEmad" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="RaheemEmad" height="30" width="40" />
 </a>
 
-<a href="https://www.hackerrank.com/raheem_amer" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raheem_amer" height="30" width="40" />
+<a href="https://www.hackerrank.com/RaheemEmad" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="RaheemEmad" height="30" width="40" />
 </a>
 
-<a href="https://www.leetcode.com/raheemamer" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raheemamer" height="30" width="40" />
+<a href="https://www.leetcode.com/RaheemEmad" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="RaheemEmad" height="30" width="40" />
 </a>
 
 </p>
