@@ -250,9 +250,9 @@ Eric Freeman & Elisabeth Robson
 ## 🎵 Jamming To
 
 <div align="center">
-
-<img width="35%" src="https://spotify-github-profile.vercel.app/api/view?uid=31blzeu5fofia53f22xkbj2s36qm&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" />
-
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31blzeu5fofia53f22xkbj2s36qm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31blzeu5fofia53f22xkbj2s36qm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=2638d9&bar_color_cover=true">
+  </a>
 </div>
 
 ---
@@ -277,16 +277,16 @@ Eric Freeman & Elisabeth Robson
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raheem-amer" height="30" width="40" />
 </a>
 
-<a href="https://stackoverflow.com/users/RaheemEmad" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="RaheemEmad" height="30" width="40" />
+<a href="https://stackoverflow.com/users/RaheemAmer" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="RaheemAmer" height="30" width="40" />
 </a>
 
-<a href="https://www.hackerrank.com/RaheemEmad" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="RaheemEmad" height="30" width="40" />
+<a href="https://www.hackerrank.com/RaheemAmer" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="RaheemAmer" height="30" width="40" />
 </a>
 
-<a href="https://www.leetcode.com/RaheemEmad" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="RaheemEmad" height="30" width="40" />
+<a href="https://www.leetcode.com/RaheemAmer" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="RaheemAmer" height="30" width="40" />
 </a>
 
 </p>
