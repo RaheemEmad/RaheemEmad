@@ -17,9 +17,6 @@ INFJ 2w1
 ---
 
 ## 💼 Professional Snapshot
-
-## SYSTEM INITIALIZATION COMPLETE
-
 ```bash
 user@profile:~$ whoami
 Google Cloud Technical Support Engineer
