@@ -18,30 +18,32 @@ INFJ 2w1
 
 ## 💼 Professional Snapshot
 
-```yaml
-Current Role:
-  - Google Cloud Technical Support Engineer
+## SYSTEM INITIALIZATION COMPLETE
 
-Background:
-  - Full Stack Web Development
-  - Talent Acquisition Specialist
-  - Customer Service & Support
-  - Product Management
+```bash
+user@profile:~$ whoami
+Google Cloud Technical Support Engineer
 
-Current Focus:
-  - Cloud Computing
-  - Infrastructure
-  - Networking
-  - Linux
-  - DevOps
-  - DevSecOps
-  - Automation
+user@profile:~$ cat /etc/background
+- Full Stack Web Development
+- Talent Acquisition Specialist
+- Customer Service & Support
+- Product Management
 
-Additional Interests:
-  - Psychology
-  - Philosophy
-  - Open Source
-  - Data Analytics
+user@profile:~$ cat /etc/current_focus
+- Cloud Computing
+- Infrastructure
+- Networking
+- Linux
+- DevOps
+- DevSecOps
+- Automation
+
+user@profile:~$ cat /etc/interests
+- Psychology
+- Philosophy
+- Open Source
+- Data Analytics
 ```
 
 ## 🎯 Current Mission
