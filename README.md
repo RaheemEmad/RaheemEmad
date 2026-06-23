@@ -58,19 +58,6 @@ user@profile:~$ cat /etc/interests
 ## ✍️ Blog Posts, Contributions & Articles
 * Got a cool info, share it here [Software-Techie-101](https://github.com/RaheemEmad/Software-Techie-101)
 ---
-<!-- BLOG-POST-LIST:START -->
-
-📝 I write occasionally about:
-
-* Cloud Computing
-* Career Growth
-* Frontend Development
-* Learning Strategies
-* Psychology & Philosophy
-
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 📊 GitHub Stats
 
