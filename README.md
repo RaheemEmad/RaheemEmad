@@ -50,11 +50,7 @@ user@profile:~$ cat /etc/interests
 ## 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/RaheemEmad">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=RaheemEmad&show_icons=true&theme=react&hide_border=true"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaheemEmad&layout=compact&langs_count=8&theme=react&hide_border=true"/>
-</a>
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaheemEmad&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RaheemEmad&hide_border=true&&theme=blue-navy&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 ---
