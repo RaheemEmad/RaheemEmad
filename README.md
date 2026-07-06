@@ -74,6 +74,17 @@ A TypeScript-based project focused on mobility and movement solutions. Building 
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 👨‍⚕️ [Future Doctor](https://github.com/RaheemEmad/future-doctor)
+A healthcare and medical platform designed to support doctors, patients, and medical professionals. Built with modern technologies to streamline medical services and patient care management.
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
 
 ---
@@ -136,7 +147,7 @@ A TypeScript-based project focused on mobility and movement solutions. Building 
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31blzeu5fofia53f22xkbj2s36qm&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31blzeu5fofia53f22xkbj2s36qm&cover_image=true&theme=novatorem&background_color=121212&interchange=true&profanity=false" alt="Spotify Now Playing"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31blzeu5fofia53f22xkbj2s36qm&cover_image=true&theme=novatorem&background_color=121212&interchange=true&profanity=false" alt="Spotify" />
   </a>
 </div>
 
