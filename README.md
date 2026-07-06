@@ -83,6 +83,9 @@ A healthcare and medical platform designed to support doctors, patients, and med
 </td>
 <td width="50%">
 
+### 🎨 [Portfolio](https://github.com/RaheemEmad/Portfolio)
+A showcase of projects, skills, and professional experience. A modern portfolio website highlighting my work in Cloud Engineering, DevOps, and Full Stack Development.
+
 </td>
 </tr>
 </table>
@@ -147,7 +150,7 @@ A healthcare and medical platform designed to support doctors, patients, and med
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31blzeu5fofia53f22xkbj2s36qm&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31blzeu5fofia53f22xkbj2s36qm&cover_image=true&theme=novatorem&background_color=121212&interchange=true&profanity=false" alt="Spotify" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31blzeu5fofia53f22xkbj2s36qm&cover_image=true&theme=novatorem&background_color=121212&interchange=true&profanity=false" alt="Spotify Profile" />
   </a>
 </div>
 
