@@ -42,10 +42,49 @@ user@profile:~$ cat /etc/interests
 - Open Source
 - Data Analytics
 ```
-## ✍️ Blog Posts, Contributions & Articles
-* [What's the difference between Manhattan OMNI and OMS ? ](https://dev.to/raheemamer/whats-the-difference-between-manhattan-omni-and-oms--2m24)
-* Building in public, check it here [MyStudyJourney](https://github.com/RaheemEmad/MyStudyJourney/tree/main)
-* Got a cool info, share it here [Software-Techie-101](https://github.com/RaheemEmad/Software-Techie-101)
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 💰 [Wealth Compass EG](https://github.com/RaheemEmad/wealth-compass-eg)
+A financial management and wealth tracking application designed for the Egyptian market. Built with TypeScript, focusing on personal finance tracking, budgeting, and wealth insights.
+
+</td>
+<td width="50%">
+
+### 🔗 [Lab Link System](https://github.com/RaheemEmad/lab-link-system)
+A comprehensive laboratory management system for connecting and organizing lab resources, scheduling, and workflow automation. Built with TypeScript and designed for seamless lab operations.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💬 [GDI Support](https://github.com/RaheemEmad/gdi-support)
+A support and customer service platform built with TypeScript. Designed to streamline support tickets, customer interactions, and service management.
+
+</td>
+<td width="50%">
+
+### 🎯 [El7arakabaraka](https://github.com/RaheemEmad/el7arakabaraka)
+A TypeScript-based project focused on mobility and movement solutions. Building innovative features for seamless user experiences.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✍️ Learning & Documentation
+
+* 📚 [MyStudyJourney](https://github.com/RaheemEmad/MyStudyJourney) - A curated list of courses, articles, and resources documenting my continuous learning path in Cloud, DevOps, and Infrastructure
+* 🧠 [Software-Techie-101](https://github.com/RaheemEmad/Software-Techie-101) - An online knowledge vault storing cool concepts, patterns, best practices, and tech gadgets. MIT Licensed.
+* ✍️ [Dev.to Articles](https://dev.to/raheemamer) - Technical writeups and insights shared with the community
+  * [What's the difference between Manhattan OMNI and OMS?](https://dev.to/raheemamer/whats-the-difference-between-manhattan-omni-and-oms--2m24)
+
 ---
 
 ## 📊 GitHub Stats
@@ -97,7 +136,7 @@ user@profile:~$ cat /etc/interests
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31blzeu5fofia53f22xkbj2s36qm&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31blzeu5fofia53f22xkbj2s36qm&cover_image=true&theme=novatorem&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=2638d9&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31blzeu5fofia53f22xkbj2s36qm&cover_image=true&theme=novatorem&background_color=121212&interchange=true&profanity=false" alt="Spotify Now Playing"/>
   </a>
 </div>
 
