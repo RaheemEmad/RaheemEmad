@@ -166,19 +166,6 @@ A showcase of projects, skills, and professional experience. A modern portfolio 
 
 ---
 
-## 🎯 Current Mission
-
-* Master Cloud Fundamentals
-* Deepen Linux & Networking Knowledge
-* Build Real-World DevOps Projects
-* Learn Infrastructure Automation
-* Strengthen Security Fundamentals
-* Move Toward DevSecOps Engineering
-* Earn Industry Certifications
-* Contribute More To Open Source
-  
----
-
 ## 📲 Connect With Me
 
 <div align="center">
